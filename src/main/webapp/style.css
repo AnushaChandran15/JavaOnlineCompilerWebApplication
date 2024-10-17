@@ -1,0 +1,97 @@
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+h2 {
+    text-align: center;
+    color: #333;
+}
+
+/* Container */
+.container {
+    width: 80%;
+    max-width: 1200px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+
+/* Code Menu */
+.code-menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.code-menu span {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.code-menu button {
+	padding: 10px 15px;
+    border: none;
+    background-color: #008CBA;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+.code-menu button:hover {
+    background-color: #005f73;
+}
+
+/* Coding Area */
+.codingArea {
+    background-color: #eeeeee;
+    color: #000000;
+    padding: 20px;
+    height: 300px;
+    border-radius: 5px;
+    font-family: "Courier New", monospace;
+    overflow-y: auto;
+}
+
+/* Output Menu */
+.output-menu {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 20px;
+}
+
+.output-menu button {
+    padding: 8px 12px;
+    background-color: #ff5555;
+    border: none;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+.output-menu button:hover {
+    background-color: #cc4444;
+}
+
+/* Output Area */
+.outputArea {
+    background-color: #eeeeee;
+    color: #000000;
+    padding: 15px;
+    height: 150px;
+    border-radius: 5px;
+    font-family: "Courier New", monospace;
+    margin-top: 10px;
+    overflow-y: auto;
+}
