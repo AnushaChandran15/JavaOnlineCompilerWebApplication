@@ -2,7 +2,7 @@
 	This is a simple web-based Java compiler that allows users to write, compile, and execute Java code online. compile and view the output or errors in real-time.
 
 ## Output
-![Project Screenshot](JavaOnlineCompiler/Output.jpg)
+![Project Screenshot](JavaOnlineCompilerWebApplication/Output.jpg)
 
 ## Features
 
