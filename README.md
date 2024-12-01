@@ -1,18 +1,18 @@
 # Online Java Compiler 
-	This is a simple web-based Java compiler that allows users to write, compile, and execute Java code online. compile and view the output or errors in real-time.
+This is a simple web-based Java compiler that allows users to write, compile, and execute Java code online. compile and view the output or errors in real-time.
 
 ## Output
-![image](Output.gif)
+![image](Output.jpg)
 
 ## Features
 
-	- **Code Editor**: Provides a text editor for users to input their Java code.
+- **Code Editor**: Provides a text editor for users to input their Java code.
 	
-	- **Compile and Execute**: Users can compile and execute their Java code directly from the web interface. Compilation errors and runtime errors are displayed in the output window.
+- **Compile and Execute**: Users can compile and execute their Java code directly from the web interface. Compilation errors and runtime errors are displayed in the output window.
 	
-	- **Reset Functionality**: Provides a reset button to clear the code editor and start fresh.
+- **Reset Functionality**: Provides a reset button to clear the code editor and start fresh.
 	
-	- **Mode Functionality**: The Light and Dark Mode feature allows users to switch between light and dark themes for better readability and personalization.
+- **Mode Functionality**: The Light and Dark Mode feature allows users to switch between light and dark themes for better readability and personalization.
 	
 	
 	
